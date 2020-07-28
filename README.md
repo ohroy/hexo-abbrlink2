@@ -19,11 +19,11 @@ Modify permalink in config.yml file:
 permalink: posts/:abbrlink/
 ```
 
-settings:
+optional settings:
 
 ```
 abbrlink:
-  start: 1000 # the first id
+  start: 1000 # the first id, default 0
 ```
 
 ## Sample
