@@ -15,13 +15,13 @@ npm install hexo-abbrlink2 --save
 
 Modify permalink in config.yml file:
 
-```
+```yml
 permalink: posts/:abbrlink/
 ```
 
 optional settings:
 
-```
+```yml
 abbrlink:
   start: 1000 # the first id, default 0
 ```
